@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\biton\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\biton\\.nuget\\packages"
+    ]
+  }
+}
